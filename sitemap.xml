@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://SSiiigrid.github.io/</loc>
-<<<<<<< HEAD
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://SSiiigrid.github.io/blog/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
-=======
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://SSiiigrid.github.io/blog/</loc>
@@ -16,7 +10,6 @@
   </url><url>
     <loc>https://SSiiigrid.github.io/blog/post-4/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
->>>>>>> 13e8dd8 (2nd)
   </url><url>
     <loc>https://SSiiigrid.github.io/blog/post-3/</loc>
     <lastmod>2023-04-23T00:00:00+00:00</lastmod>
