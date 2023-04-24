@@ -7,9 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Designed By [Sigrid Chen](https://sigridcw.com/)</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 23 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SSiiigrid.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>腦中風輔助治療：速利清</title>
+=======
+    <lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://SSiiigrid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>輔助治療：輔酶 Q10</title>
+      <link>https://SSiiigrid.github.io/blog/post-4/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://SSiiigrid.github.io/blog/post-4/</guid>
+      <description>「輔酶 Q10」（Co-enzyme Q10，以下簡稱 Q10）又稱為「優比醌龍」（Ubiquinone），人體在正常情況下製造的 Q10，是利用胺基酸 ──L-酪胺酸（L-Tyrosine）及 L-甲硫胺酸（L-Methionine）合成，機轉相當複雜，涉及多種微量營養素，特別是維生素 C 及維生素 B 群。Q10 存在於很多器官中，心臟、肺臟、肝臟、腎臟、脾臟、胰臟和腎上腺的含量特別多，其中又以心臟的含量最多。</description>
+    </item>
+    
+    <item>
+      <title>輔助治療：速利清</title>
+>>>>>>> 13e8dd8 (2nd)
       <link>https://SSiiigrid.github.io/blog/post-3/</link>
       <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
       
@@ -19,7 +34,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>腦中風輔助治療：重覆性經顱磁刺激</title>
+=======
+      <title>輔助治療：重覆性經顱磁刺激</title>
+>>>>>>> 13e8dd8 (2nd)
       <link>https://SSiiigrid.github.io/blog/post-2/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       
@@ -30,7 +49,11 @@
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>腦中風輔助治療：靜脈雷射</title>
+=======
+      <title>輔助治療：靜脈雷射</title>
+>>>>>>> 13e8dd8 (2nd)
       <link>https://SSiiigrid.github.io/blog/post-1/</link>
       <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
       
