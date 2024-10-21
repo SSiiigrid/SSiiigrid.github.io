@@ -147,24 +147,6 @@
     </item>
     
     <item>
-      <title>How It Works</title>
-      <link>https://SSiiigrid.github.io/how-it-works/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://SSiiigrid.github.io/how-it-works/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joseph Gonzalez</title>
-      <link>https://SSiiigrid.github.io/author/joseph-gonzalez/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://SSiiigrid.github.io/author/joseph-gonzalez/</guid>
-      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
-    </item>
-    
-    <item>
       <title>Our Team</title>
       <link>https://SSiiigrid.github.io/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,21 +156,39 @@
     </item>
     
     <item>
-      <title>Pricing</title>
-      <link>https://SSiiigrid.github.io/pricing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://SSiiigrid.github.io/pricing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sigrid Chen</title>
       <link>https://SSiiigrid.github.io/author/awab-husameldin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://SSiiigrid.github.io/author/awab-husameldin/</guid>
       <description>台中慈濟復健醫學部住院醫師</description>
+    </item>
+    
+    <item>
+      <title>Sigrid Chen</title>
+      <link>https://SSiiigrid.github.io/author/joseph-gonzalez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SSiiigrid.github.io/author/joseph-gonzalez/</guid>
+      <description>台中慈濟復健醫學部住院醫師</description>
+    </item>
+    
+    <item>
+      <title>高骨力肌力體能訓練中心</title>
+      <link>https://SSiiigrid.github.io/strength-conditioning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SSiiigrid.github.io/strength-conditioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>高骨力訓練中心方案</title>
+      <link>https://SSiiigrid.github.io/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SSiiigrid.github.io/pricing/</guid>
+      <description></description>
     </item>
     
   </channel>
